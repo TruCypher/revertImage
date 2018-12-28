@@ -62,7 +62,7 @@ var ascii = '$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/|()1{}[]?-_+~<>i!lI;:,"^`\
 
 function main (pictureDir)
 {
- 
+//asdf
 
     jimp.read(pictureDir)
     .then(img => {
