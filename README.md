@@ -8,6 +8,4 @@ learing about images
 
 so exciting!!!
 
-however, i'm struggling ............
 
-very interesting !!! indeed
